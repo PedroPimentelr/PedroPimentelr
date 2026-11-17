@@ -11,6 +11,10 @@ Trabalho com aplicações web, APIs, bancos de dados e desenvolvimento assistido
 **IA e automação:** Claude Code · OpenAI Codex · API da OpenAI · n8n · WhatsApp Cloud API  
 **Ferramentas:** Git · GitHub Actions · APIs REST
 
+### Portfólio de IA
+
+**[ai-workflows-and-prompts](https://github.com/PedroPimentelr/ai-workflows-and-prompts)**: exemplos práticos e executáveis de como construo com IA. Inclui atendimento com saídas estruturadas validadas, proteção contra prompt injection e aprovação humana; um pipeline de automação de conteúdo (roteiro, narração, imagens e plano de vídeo); e um fluxo de desenvolvimento com agentes de IA, da especificação aos testes. Usa dados fictícios e roda sem chaves de API.
+
 ### O que estou construindo
 
 Estes projetos estão em repositórios privados; por isso, aqui aparece só uma breve descrição.
