@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Pimentel Rodrigues 👋
+# Olá, eu sou o Pedro Pimentel Rodrigues
 
 Sou **estudante de Engenharia de Computação na PUC-Campinas** e tenho interesse em **engenharia de software, inteligência artificial e construção de produtos digitais úteis**.
 
@@ -18,7 +18,7 @@ Estes projetos estão em repositórios privados; por isso, aqui aparece só uma 
 - **Plataforma de gestão comercial e CRM para revendas de carros** *(em desenvolvimento)*: atendimento assistido por IA com WhatsApp Cloud API e modelos da OpenAI (o vendedor aprova cada resposta), automações com n8n para triagem de leads e alertas internos, e ferramentas de negociação com simulação de financiamento. *TypeScript · Next.js · PostgreSQL · n8n*
 - **Assistente de vendas com IA e painel para uma loja de varejo** *(protótipo)*: chatbot que responde apenas com informações do catálogo da loja, com proteção contra prompt injection e troca de provedor de modelo (OpenAI ou Anthropic), além de um painel de vendas com alertas de reposição. *Next.js · TypeScript*
 - **Ludoom** *(em desenvolvimento)*: jogo de tabuleiro tático em Unity/C#, com adversários controlados por IA e simulações automáticas de partidas para validar as regras.
-- **MVP de gestão de projetos industriais**: fases do projeto, checklists e acompanhamento de progresso em projetos de engenharia. *Next.js · TypeScript*
+- **MVP de gestão de projetos industriais** *(demonstração)*: sistema para uma empresa de equipamentos industriais, modelado a partir dos procedimentos internos de contratos e cronogramas. Conduz cada projeto por cinco fases (entrada e validação técnica, planejamento, alinhamento com o cliente, execução e encerramento), com checklists obrigatórios que bloqueiam o avanço de fase até serem concluídos. Inclui controle de documentos por revisão, marcos financeiros, pontos críticos, Curva S (previsto x realizado) e um painel com projetos ativos, atrasados e tarefas vencidas. *Next.js · TypeScript · Tailwind · shadcn/ui · PostgreSQL (modelo de dados com 13 tabelas)*
 
 ### Projetos acadêmicos e colaborativos
 
