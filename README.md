@@ -1,32 +1,32 @@
-# Hi, I'm Pedro Pimentel Rodrigues 👋
+# Olá, eu sou o Pedro Pimentel Rodrigues 👋
 
-I'm a **Computer Engineering student at PUC-Campinas**, based in Brazil, interested in **software engineering, artificial intelligence, and building useful digital products**.
+Sou **estudante de Engenharia de Computação na PUC-Campinas** e tenho interesse em **engenharia de software, inteligência artificial e construção de produtos digitais úteis**.
 
-I work with web applications, APIs, databases, and AI-assisted development. I enjoy turning ideas into working software and exploring how AI can help solve real-world problems.
+Trabalho com aplicações web, APIs, bancos de dados e desenvolvimento assistido por IA. Gosto de transformar ideias em software funcionando e de explorar como a IA pode resolver problemas reais.
 
-### Technologies
+### Tecnologias
 
-**Languages:** TypeScript · JavaScript · Python · C++ · C · x86 Assembly  
-**Web & backend:** Next.js · Node.js · React · PostgreSQL · Supabase  
-**AI & automation:** Claude Code · OpenAI Codex · OpenAI API · n8n · WhatsApp Cloud API  
-**Tools:** Git · GitHub Actions · REST APIs
+**Linguagens:** TypeScript · JavaScript · Python · C++ · C · Assembly x86  
+**Web e back-end:** Next.js · Node.js · React · PostgreSQL · Supabase  
+**IA e automação:** Claude Code · OpenAI Codex · API da OpenAI · n8n · WhatsApp Cloud API  
+**Ferramentas:** Git · GitHub Actions · APIs REST
 
-### What I'm building
+### O que estou construindo
 
-These projects live in private repositories, so only a short description is shown here.
+Estes projetos estão em repositórios privados; por isso, aqui aparece só uma breve descrição.
 
-- **Sales & CRM platform for car dealerships** *(in development)* — AI-assisted customer service with WhatsApp Cloud API and OpenAI models (the seller approves every reply), n8n automations for lead triage and internal alerts, and negotiation tools with financing simulation. *TypeScript · Next.js · PostgreSQL · n8n*
-- **AI sales assistant and dashboard for a retail store** *(prototype)* — a chatbot that answers only with facts from the store catalog, with prompt-injection safeguards and a switchable model provider (OpenAI or Anthropic), plus a sales dashboard with restock alerts. *Next.js · TypeScript*
-- **Ludoom** *(in development)* — a tactical board game built with Unity/C#, with AI opponents and automated match simulations to validate the rules.
-- **Industrial project management MVP** — project phases, checklists and progress tracking for engineering projects. *Next.js · TypeScript*
+- **Plataforma de gestão comercial e CRM para revendas de carros** *(em desenvolvimento)*: atendimento assistido por IA com WhatsApp Cloud API e modelos da OpenAI (o vendedor aprova cada resposta), automações com n8n para triagem de leads e alertas internos, e ferramentas de negociação com simulação de financiamento. *TypeScript · Next.js · PostgreSQL · n8n*
+- **Assistente de vendas com IA e painel para uma loja de varejo** *(protótipo)*: chatbot que responde apenas com informações do catálogo da loja, com proteção contra prompt injection e troca de provedor de modelo (OpenAI ou Anthropic), além de um painel de vendas com alertas de reposição. *Next.js · TypeScript*
+- **Ludoom** *(em desenvolvimento)*: jogo de tabuleiro tático em Unity/C#, com adversários controlados por IA e simulações automáticas de partidas para validar as regras.
+- **MVP de gestão de projetos industriais**: fases do projeto, checklists e acompanhamento de progresso em projetos de engenharia. *Next.js · TypeScript*
 
-### Academic & collaborative projects
+### Projetos acadêmicos e colaborativos
 
-- **[Rubik's Cube Simulator with AI](https://github.com/felipeNamaral/Simulador-Cubinho-M-gico-com-IA)** — Academic C++ project exploring search algorithms and cube-state solving. *Collaborative project.*
-- **[Multi-user TCP Chat](https://github.com/felipeNamaral/redes-de-computadores)** — Python client-server messaging application using TCP sockets and threads. *Collaborative project.*
-- **[Toytrace — Linux System Calls](https://github.com/ZinPedro/ProjetoDeSistemasOperacionaisPucc2026)** — Educational system-call tracing project written in C, using Linux `ptrace`. *Collaborative project.*
-- **[x86 Assembly Exercises & Battleship](https://github.com/PedroPimentelr/Assembly)** — Assembly coursework and a console Battleship game with a 20 × 20 board.
+- **[Simulador de Cubo Mágico com IA](https://github.com/felipeNamaral/Simulador-Cubinho-M-gico-com-IA)**: projeto acadêmico em C++ que explora algoritmos de busca para resolver o cubo. *Projeto colaborativo.*
+- **[Chat TCP multiusuário](https://github.com/felipeNamaral/redes-de-computadores)**: aplicação cliente-servidor em Python com sockets TCP e threads. *Projeto colaborativo.*
+- **[Toytrace: chamadas de sistema no Linux](https://github.com/ZinPedro/ProjetoDeSistemasOperacionaisPucc2026)**: projeto educacional em C para rastrear chamadas de sistema com `ptrace`. *Projeto colaborativo.*
+- **[Exercícios de Assembly x86 e Batalha Naval](https://github.com/PedroPimentelr/Assembly)**: exercícios da disciplina e um jogo de Batalha Naval no console, com tabuleiro de 20 × 20.
 
-### Contact
+### Contato
 
 [LinkedIn](https://www.linkedin.com/in/pedropimentelrodrigues)
